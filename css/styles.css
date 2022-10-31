@@ -413,7 +413,7 @@ footer .container {
   min-height: 44px;
   border-radius: 50%;
   border: none;
-  background-color: none;
+  background: none;
   cursor: pointer;
   display: flex;
   justify-content: center;
